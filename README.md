@@ -6,6 +6,11 @@
     $ docker-compose up -d --build
 ```
 
+if needed stop docker use 
+```dockerfile
+    $ docker-compose stop
+```
+
 ### migrations:
  creating a migration
 ```dockerfile
